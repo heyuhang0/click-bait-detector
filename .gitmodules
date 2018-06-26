@@ -1,0 +1,6 @@
+[submodule "reference/clickbait-detector"]
+	path = reference/clickbait-detector
+	url = https://github.com/saurabhmathur96/clickbait-detector.git
+[submodule "reference/clickbait-classifier"]
+	path = clickbait-classifier
+	url = https://github.com/peterldowns/clickbait-classifier.git
